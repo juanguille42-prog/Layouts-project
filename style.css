@@ -1,0 +1,37 @@
+body {
+    margin: 0%; 
+    font-family: helvetica;
+}
+section {
+    background: #fafafa; 
+    padding-top: 60px;
+}
+header { 
+    text-align: center;
+}
+.box {
+    background-color: white; 
+    width: 700px; margin: auto; 
+    margin-top: 10px; margin-top: 10px; 
+    border-radius: 5px; 
+    border: 1px solid #edeeee;
+} 
+img{
+    width: 100%
+}
+div.header{
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+div.header h2{
+    margin: 0; 
+    font-size: 20px
+}
+div.description {
+    padding: 15px;
+}
+
+
+ 
